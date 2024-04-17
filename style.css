@@ -339,7 +339,7 @@ overflow: hidden;
 .section3{
     margin-top: 0px;
     padding-top: 0px;
-    background-image: url("/images/mainbg.jpg");
+    background-image: url(images/mainbg.jpg);
     height: 100vh;
     position: relative;
     
@@ -575,7 +575,7 @@ width:210px
 #contact{
     height: 100vh;
     width: 100%;
-    background-image: url("../images/mainbg.jpg");
+    background-image: url(images/mainbg.jpg);
     position: relative;
     display: flex;
     top: 0;
@@ -746,7 +746,7 @@ form input, form textarea {
         left: .01rem;
     }
     .main{
-        background-image: url("/images/bg1small.png");
+        background-image: url(images/bg1small.png);
     }
     .lefttext{
         position: relative;
@@ -775,7 +775,7 @@ form input, form textarea {
         left:50px;
     }
     .secondsection{
-        background-image: url("/images/mainbg.jpg");
+        background-image: url(images/mainbg.jpg);
         background-image: none;
     }
     
