@@ -61,7 +61,7 @@ color: #0bdcf8;
 .slide{
     
     background-color:white;
-    height: 30vh;
+    height: 50vh;
     width: 250px;
     display: none;
     flex-direction: column;
@@ -209,13 +209,11 @@ overflow: hidden;
     
 }
 
-.lefttext button img{
+.lefttext button i{
     
-    height: 2rem;
-    margin: .2rem .2rem .4rem .2rem;
-    padding-top:.2rem;
-    
-    color: white;
+   font-size: 25px;
+   color: #0ca1e6;
+   padding: 5px 4px 2px 1px
 
 }
 .lefttext button .resume{
@@ -849,4 +847,8 @@ form input, form textarea {
     
 }
 
-
+@media only screen and (max-width:1400px) and (min-width:1000px){
+    .nav ul{
+        right: 0.6rem;
+    }
+}
