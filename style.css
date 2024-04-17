@@ -853,4 +853,7 @@ form input, form textarea {
     }
 }
 
-
+head, body{
+  height: 100%;
+  width: 100%;  
+}
