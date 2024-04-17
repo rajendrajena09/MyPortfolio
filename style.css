@@ -113,7 +113,7 @@ color: #0bdcf8;
     
 }
 .main{
-    background-image: url(./images/bg1.png);
+    background-image: url(images/bg1.png);
     height:100vh;
     position: relative;
     background-repeat:no-repeat;
@@ -236,7 +236,7 @@ overflow: hidden;
 .secondsection{
     margin-top: 0px;
     padding-top: 0px;
-    background-image: url(./images/bg2.png);
+    background-image: url(images/bg2.png);
     background-repeat: no-repeat;
     background-position: center;
     height:100vh;
@@ -339,7 +339,7 @@ overflow: hidden;
 .section3{
     margin-top: 0px;
     padding-top: 0px;
-    border-image: url("./images/mainbg.jpg");
+    border-image: url("images/mainbg.jpg");
     height: 100vh;
     position: relative;
     
@@ -746,7 +746,7 @@ form input, form textarea {
         left: .01rem;
     }
     .main{
-        background-image: url("./images/bg1small.png");
+        background-image: url("images/bg1small.png");
     }
     .lefttext{
         position: relative;
@@ -775,7 +775,7 @@ form input, form textarea {
         left:50px;
     }
     .secondsection{
-        background-image: url("./images/mainbg.jpg");
+        background-image: url("images/mainbg.jpg");
         background-image: none;
     }
     
